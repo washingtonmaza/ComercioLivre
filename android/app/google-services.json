@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71735898743",
+    "project_id": "comerciolivreapp",
+    "storage_bucket": "comerciolivreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71735898743:android:4843698149dbf66b7a8c72",
+        "android_client_info": {
+          "package_name": "com.example.comerciolivre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71735898743-1868vkhogji2s3tavl4jfir9id33s6ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1adIHS5lM0mwbF5hYGrM0e5pDCzGxmqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71735898743-1868vkhogji2s3tavl4jfir9id33s6ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

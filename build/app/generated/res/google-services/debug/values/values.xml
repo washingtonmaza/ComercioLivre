@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">71735898743-1868vkhogji2s3tavl4jfir9id33s6ka.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">71735898743</string>
+    <string name="google_api_key" translatable="false">AIzaSyB1adIHS5lM0mwbF5hYGrM0e5pDCzGxmqY</string>
+    <string name="google_app_id" translatable="false">1:71735898743:android:4843698149dbf66b7a8c72</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB1adIHS5lM0mwbF5hYGrM0e5pDCzGxmqY</string>
+    <string name="google_storage_bucket" translatable="false">comerciolivreapp.appspot.com</string>
+    <string name="project_id" translatable="false">comerciolivreapp</string>
+</resources>
