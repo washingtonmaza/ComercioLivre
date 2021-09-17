@@ -1,5 +1,5 @@
 import 'package:comerciolivre/models/usuario.dart';
-import 'file:///D:/app/caboclinho/caboclinho/JcPlayer-master_v2/comerciolivre/lib/widgets/input_customizado.dart';
+import 'package:comerciolivre/widgets/input_customizado.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 

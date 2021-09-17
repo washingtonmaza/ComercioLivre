@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\app\\caboclinho\\caboclinho\\JcPlayer-master_v2\\comerciolivre\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\washi\\Desktop\\unity\\comerciolivre\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\washi\\.gradle\\caches\\transforms-2\\files-2.1\\14e561dfe998324f0993f7eed2935f20\\jetified-play-services-basement-17.1.0\\res\\values\\values.xml",
@@ -37,6 +37,25 @@
                         "endLines": "15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,92,118,127,131,132,136,137,138,139,149,291,323,360,367",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "1150,1213,1271,1345,1558,1626,1698,1768,1829,1903,1976,2037,2098,2160,2224,2286,2347,2415,2515,2575,2641,2714,2783,2840,2892,2954,3026,3102,3167,3226,3285,3345,3405,3465,3525,3585,3645,3705,3765,3825,3885,3944,4004,4064,4124,4184,4244,4304,4364,4424,4484,4544,4603,4663,4723,4782,4841,4900,4959,5018,5077,5112,5147,5202,5265,5320,5378,5435,5485,5546,5603,5637,5672,5707,5845,8982,9565,9766,9876,10077,10206,10278,10345,10788,19513,21578,23338,23715"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\washi\\Desktop\\unity\\comerciolivre\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,830",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,996"
+                    },
+                    "to": {
+                        "startLines": "119,124",
+                        "startColumns": "4,4",
+                        "startOffsets": "8987,9284",
+                        "endLines": "123,126",
+                        "endColumns": "12,12",
+                        "endOffsets": "9279,9448"
                     }
                 },
                 {
@@ -78,6 +97,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\washi\\Desktop\\unity\\comerciolivre\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,198,279,383,491,611,711",
+                        "endColumns": "142,80,103,107,119,99,76",
+                        "endOffsets": "193,274,378,486,606,706,783"
+                    },
+                    "to": {
+                        "startLines": "111,112,113,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8183,8326,8407,8511,8619,8739,8839",
+                        "endColumns": "142,80,103,107,119,99,76",
+                        "endOffsets": "8321,8402,8506,8614,8734,8834,8911"
+                    }
+                },
+                {
                     "source": "C:\\Users\\washi\\.gradle\\caches\\transforms-2\\files-2.1\\afd2d987ef6a954ce95af3f20bd0f6cf\\browser-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
@@ -92,42 +128,6 @@
                         "startOffsets": "166,224,290,353,1350,1421",
                         "endColumns": "57,65,62,61,70,71",
                         "endOffsets": "219,285,348,410,1416,1488"
-                    }
-                },
-                {
-                    "source": "D:\\app\\caboclinho\\caboclinho\\JcPlayer-master_v2\\comerciolivre\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,830",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "472,996"
-                    },
-                    "to": {
-                        "startLines": "119,124",
-                        "startColumns": "4,4",
-                        "startOffsets": "8987,9284",
-                        "endLines": "123,126",
-                        "endColumns": "12,12",
-                        "endOffsets": "9279,9448"
-                    }
-                },
-                {
-                    "source": "D:\\app\\caboclinho\\caboclinho\\JcPlayer-master_v2\\comerciolivre\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,198,279,383,491,611,711",
-                        "endColumns": "142,80,103,107,119,99,76",
-                        "endOffsets": "193,274,378,486,606,706,783"
-                    },
-                    "to": {
-                        "startLines": "111,112,113,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "8183,8326,8407,8511,8619,8739,8839",
-                        "endColumns": "142,80,103,107,119,99,76",
-                        "endOffsets": "8321,8402,8506,8614,8734,8834,8911"
                     }
                 }
             ]

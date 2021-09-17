@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\app\\caboclinho\\caboclinho\\JcPlayer-master_v2\\comerciolivre\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "C:\\Users\\washi\\Desktop\\unity\\comerciolivre\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\washi\\.gradle\\caches\\transforms-2\\files-2.1\\14e561dfe998324f0993f7eed2935f20\\jetified-play-services-basement-17.1.0\\res\\values-zh-rCN\\values.xml",
