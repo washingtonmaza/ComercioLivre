@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26b895df-4035-4d7f-bff1-cb422a309bf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/.last_build_id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/input_customizado.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/input_customizado.dart" afterDir="false" />
-    </list>
+    <list default="true" id="26b895df-4035-4d7f-bff1-cb422a309bf4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1631816961169</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed bugs">
+      <created>1631864209172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631864209172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +96,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bugs" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1631823569644">
       <screen x="0" y="0" width="1536" height="824" />
@@ -108,10 +109,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="159" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1631844320591" />
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1631855882297">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1631864181048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631855882297" />
+    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1631864181048" />
     <state width="422" height="466" key="DebuggerActiveHint" timestamp="1631845304257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
