@@ -1,6 +1,6 @@
 # comerciolivre
 
-beta
+Projeto para teste de conexão com registro de login no firebase, consumo de api entre outros recursos
 
 ## Getting Started
 
